@@ -1,0 +1,34 @@
+The output of: uname -a : is
+>>>>>>>>>>>>>>>
+Darwin Taleis-MacBook-Pro.local 22.6.0 Darwin Kernel Version 22.6.0: Wed Jul  5 22:21:56 PDT 2023; root:xnu-8796.141.3~6/RELEASE_X86_64 x86_64
+<<<<<<<<<<<<<<<
+The output of: free -m : is
+>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<
+The output of: ls -l -a -F : is
+>>>>>>>>>>>>>>>
+total 208
+drwxr-xr-x  16 taleibhans  staff    512 Oct 19 18:22 ./
+drwxr-xr-x   3 taleibhans  staff     96 Oct 17 13:35 ../
+drwxr-xr-x  13 taleibhans  staff    416 Oct 17 13:36 .git/
+drwxr-xr-x   3 taleibhans  staff     96 Oct 17 13:35 .github/
+drwxr-xr-x   4 taleibhans  staff    128 Oct 18 19:59 .vscode/
+-rw-r--r--   1 taleibhans  staff    460 Oct 17 13:35 README.md
+-rwxr-xr-x   1 taleibhans  staff  33896 Oct 19 17:43 collatz_sequence*
+-rw-r--r--   1 taleibhans  staff   1953 Oct 19 18:17 collatz_sequence.c
+drwxr-xr-x   3 taleibhans  staff     96 Oct 19 17:15 collatz_sequence.dSYM/
+-rw-r--r--   1 taleibhans  staff    670 Oct 19 18:06 makefile
+-rw-r--r--   1 taleibhans  staff    264 Oct 19 18:23 output.txt
+-rwxr-xr-x   1 taleibhans  staff  34888 Oct 19 18:22 process_management*
+-rw-r--r--   1 taleibhans  staff   5435 Oct 19 18:21 process_management.c
+drwxr-xr-x   3 taleibhans  staff     96 Oct 18 19:58 process_management.dSYM/
+-rw-r--r--   1 taleibhans  staff     39 Oct 19 17:56 sample_in_process.txt
+-rw-r--r--<<<<<<<<<<<<<<<
+The output of: whoami : is
+>>>>>>>>>>>>>>>
+taleibhans
+<<<<<<<<<<<<<<<
+The output of: pwd : is
+>>>>>>>>>>>>>>>
+/Users/taleibhans/github-classroom/wlu-labs/A2-talei-i
+<<<<<<<<<<<<<<<
